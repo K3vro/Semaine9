@@ -1,1 +1,17 @@
+h1 {
+	text-align:center;
+	text-shadow:4px 10px 10px green;
+	color:green;
+}
+.ligne {
+	border: 3px solid black;
+	border-radius:10px;
+	padding-bottom:30px;
+	margin-top:50px;
+	
+}
+.recherche {
+	text-align:center;
+	margin-top:30px;
+}
 
