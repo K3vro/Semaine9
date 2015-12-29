@@ -3,7 +3,7 @@ $texte = document.getElementById("texte");
 $ajouter = document.getElementById("ajouter");
 $annuler = document.getElementById("annuler");
 
-tableau = ["Bob", "Julien", "Roger"];
+tableau = ["lol", "leet", "1337"];
 
 function afficherListe() {
     elements = "";
