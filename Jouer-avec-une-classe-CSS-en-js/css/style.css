@@ -6,12 +6,12 @@
     display: none;
 }
 h1 {
-	text-align:center;
-	text-shadow:4px 10px 10px green;
+	text-align:left;
+	text-shadow: 2px 5px 5px green;
 	
 }
 .list {
-	border: 1px solid green;
+	border: 10px solid green;
 	border-radius:10px;
 	padding-bottom:30px;
 	margin-top:50px;
