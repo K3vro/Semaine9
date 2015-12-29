@@ -6,15 +6,7 @@
     display: none;
 }
 h1 {
-	text-align:center;
-	text-shadow:4px 10px 10px green;
-	
-}
-.ligne {
-	border: 2px solid green;
-	border-radius:10px;
-	padding-bottom:30px;
-	margin-top:50px;
+	text-shadow: 2px 5px 5px green;
 }
 .boutton {
 	text-align:center;
